@@ -1,1 +1,27 @@
-/*  your css code here. If applicable */
+/* General Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+/* Content Styling */
+.content {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Styling for bold text */
+b {
+    font-weight: bold;
+}
+
+/* Styling for italic text */
+i {
+    font-style: italic;
+}
